@@ -116,7 +116,7 @@ export const transactionCategoryStyles = {
     textColor: "text-red-700",
     chipBackgroundColor: "bg-inherit",
   },
-  Processing: {
+  Processign: {
     borderColor: "border-[#F2F4F7]",
     backgroundColor: "bg-gray-500",
     textColor: "text-[#344054]",
